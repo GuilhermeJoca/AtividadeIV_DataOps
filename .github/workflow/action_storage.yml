@@ -1,4 +1,4 @@
-name: Python GCP Storage
+name: Python Storage GitAction
 
 on: push
 
